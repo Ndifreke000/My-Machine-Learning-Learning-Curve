@@ -1,6 +1,5 @@
 # Movie Recommendation Engine
 
-**Complete Video Tutorial:** https://youtu.be/Dw9_BQ60ERU
 
 # Dataset Information
 
