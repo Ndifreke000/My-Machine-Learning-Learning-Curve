@@ -1,6 +1,4 @@
-Here’s a polished `README.md` with proper Markdown structure and a more engaging flow:
 
-````markdown
 # 📘 My Machine Learning Learning Curve  
 
 Welcome to **My-Machine-Learning-Learning-Curve** 🚀  
